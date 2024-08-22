@@ -22,7 +22,7 @@ function App() {
         setSat={setSat}
         displaySats={displaySats}    
       />
-      <Table sat={sat}  />
+      <Table sat={sat}/>
     </div>
   );
 }
